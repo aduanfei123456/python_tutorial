@@ -1,0 +1,36 @@
+Python代码运行助手
+Python代码运行助手可以让你在线输入Python代码，然后通过本机运行的一个Python脚本来执行代码。原理如下：
+
+在网页输入代码：
+
+
+
+点击Run按钮，代码被发送到本机正在运行的Python代码运行助手；
+
+Python代码运行助手将代码保存为临时文件，然后调用Python解释器执行代码；
+
+网页显示代码执行结果：
+
+
+
+下载
+点击右键，目标另存为：learning.py
+备用下载地址：learning.py
+运行
+在存放learning.py的目录下运行命令：
+C:\Users\michael\Downloads> python learning.py
+
+
+试试效果
+
+
+IE >= 9
+Firefox
+Chrome
+Sarafi
+
+
+# 测试代码:
+----
+print('Hello, world')
+
